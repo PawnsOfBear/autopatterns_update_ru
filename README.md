@@ -1,1 +1,1 @@
-# autopatterns_update_ru
+AUTOPATTERNS
